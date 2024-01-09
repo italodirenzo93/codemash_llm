@@ -1,6 +1,9 @@
 langchain
+langchain_community
 openai
 chromadb
 langchainhub
 bs4
 tiktoken
+pypdf
+pysqlite3-binary
